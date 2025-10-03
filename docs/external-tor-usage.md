@@ -458,3 +458,5 @@ $ /opt/haveno/bin/Haveno --torControlPort='9051' --torControlCookieFile='/var/ru
 ```shell
 $ /opt/haveno/bin/Haveno --socks5ProxyXmrAddress='127.0.0.1:9050' --useTorForXmr='on' --hiddenServiceAddress='2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion'
 ```
+
+<!-- Auto-update: 2025-10-03T11:34:17.082818 -->
