@@ -23,3 +23,5 @@ The second execution should then update:
  - `haveno/gradlew.bat`
 
 The four updated files are ready to be committed.
+
+<!-- Auto-update: 2025-10-06T23:01:28.752781 -->
